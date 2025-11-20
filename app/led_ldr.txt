@@ -1,3 +1,12 @@
 Resistencia LDR
   - Iluminada: 340 Ohm (aproximadamente)
   - A oscuras: 2.2 MOhm (aproximadamente)
+
+Eje y: resistencia. Eje x: duty cycle. Se puede observar que la esencia del comportamiento obedece a la forma del diente de sierra esperado. Sin embargo,
+se ve màs de un punto por abscisa, ya que el lugar en donde fue realizado el experimento contaba con una considerable cantidad de ruido lumínico, que
+alteró los resultados del experimento en gran medida. Es por eso que se adjunta, además, un gráfico del promedio de los puntos de la primera imagen para así
+apreciar el comportamiento esperado.
+
+<img width="586" height="359" alt="Image" src="https://github.com/user-attachments/assets/caf41895-013b-48fe-aa94-09dad22a57f9" />
+
+<img width="576" height="353" alt="Image" src="https://github.com/user-attachments/assets/0107cfce-33e9-48a4-8fcb-18f1799b36ab" />
