@@ -1,0 +1,3 @@
+Resistencia LDR
+  - Iluminada: 340 Ohm (aproximadamente)
+  - A oscuras: 2.2 MOhm (aproximadamente)
