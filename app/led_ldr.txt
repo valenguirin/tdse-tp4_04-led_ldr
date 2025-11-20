@@ -7,6 +7,4 @@ se ve màs de un punto por abscisa, ya que el lugar en donde fue realizado el ex
 alteró los resultados del experimento en gran medida. Es por eso que se adjunta, además, un gráfico del promedio de los puntos de la primera imagen para así
 apreciar el comportamiento esperado.
 
-![Puntos sin promediar](dcvsohm.png)
-
-![Puntos promediados y unidos](promedio.png)
+LAS FOTOS SE ADJUNTAN EN LA CARPETA EN CUESTIÓN, NOMBRADAS COMO "dcvsohm.png" y "promedio.png" para la no promediada y la promediada, respectivamente.
