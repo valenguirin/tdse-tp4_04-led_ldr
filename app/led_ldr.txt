@@ -7,6 +7,6 @@ se ve màs de un punto por abscisa, ya que el lugar en donde fue realizado el ex
 alteró los resultados del experimento en gran medida. Es por eso que se adjunta, además, un gráfico del promedio de los puntos de la primera imagen para así
 apreciar el comportamiento esperado.
 
-![Imagen 1](https://github.com/user-attachments/assets/d534bd19-b29f-488a-839c-bade4d3860fc)
+<img width="576" height="353" alt="Image" src="https://github.com/user-attachments/assets/d534bd19-b29f-488a-839c-bade4d3860fc">
 
-![Imagen 2](https://github.com/user-attachments/assets/1ff6c602-cc19-4ed8-9a7e-0b819bf7c879)
+<img width="586" height="359" alt="Image" src="https://github.com/user-attachments/assets/1ff6c602-cc19-4ed8-9a7e-0b819bf7c879">
